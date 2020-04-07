@@ -1,0 +1,28 @@
+1ére question, 2.2.rb:En faisant une recherche Google, peux-tu connaître la différence entre print et puts ?
+
+La différence entre les deux est que print affiche les objets pour les utilisateurs sans aller à une nouvelle ligne 
+ceux qui permet donc d'afficher plusieurs objets sur la meme ligne alors que puts affiche les objets tout en allant 
+systematiquement à la ligne.
+
+2éme question, 2.3:Reprends ton programme exo_02.rb, puis écris un programme exo_03.rb qui est le même, mais avec 
+# devant la ligne 2. Peux-tu me dire ce qu'il se passe ?
+Comme sur mon  programme exo_02.rb j'ai écris mon code sur une seule ligne en réalisant un  tableau il se passe 
+exactement la meme chose le symbole # n'affecte pas mon code.
+
+3éme question, 2.4: Que se passe-t-il ? Pourquoi ?
+La console affiche un message d'erreur: unterminated string meets end of file car il y a un oublie, 
+à la fin de la ligne je n'ai pas fermées les guillemets.
+
+4éme questionn, 2.5: D'abord, que fait #{} ? Ensuite, mets un commentaire devant chacune des lignes et explique ce qu'elle fait.
+Le symbole #{} sert à indiquer une instruction à la console dans une chaine sous forme de commentaires pour qu'elles ne soit
+pas visibles lors de son éxécution sur l'application.
+
+5éme question, 2.6:Lance-le programme. Que se passe-t-il ? Peux-tu l'expliquer ?
+L'application ne comprend pas le  programme car dans les commentaires qui sont destinés à donner des instruction à la console, les informations
+ne sont pas compréhensible car il y a des chaine de caractére qui se multiplie entre elles or il devrait y avoir la valeur numérique de
+chacune d'entre elle à la place pour que la console puisse les multiplier.
+
+6éme question, 2.7:Quelles sont les différences entre les trois programmes ?
+
+
+
